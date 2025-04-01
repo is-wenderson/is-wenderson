@@ -1,4 +1,4 @@
-![Banner](https://link-para-sua-imagem.com/banner.png)
+![Banner](![image](https://github.com/user-attachments/assets/50e26930-baed-40a9-9385-527cf0647f1e)
 
 
 
