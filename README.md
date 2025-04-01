@@ -5,7 +5,6 @@
 🌱 Learning backend principles with Oracle/Alura.  
 💻 Recently started a beckend programming course with Alura as part of the G8 ONE program.  
 🎓 Studying Information Technology at UFRN (Universidade Federal do Rio Grande do Norte).
-
 🚀 Passionate about coding, solving challenges, and continuously improving my skills.  
 
 
