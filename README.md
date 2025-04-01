@@ -1,4 +1,6 @@
-![Welcome Banner](https://example.com/banner.png)
+![Banner](https://link-para-sua-imagem.com/banner.png)
+
+
 
 ## 👋 About Me
 
