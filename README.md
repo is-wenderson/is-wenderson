@@ -21,6 +21,6 @@
 
 ## 📊 GitHub Stats
 
-![Top Langs]([https://github-readme-stats.vercel.app/api/top-langs/?username=is-wenderson&layout=compact&theme=dark](https://camo.githubusercontent.com/1ee1d3abde0764c3ac95e8a88c797428ee083b287885ff2202b4b63efbc014a8/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d69732d77656e646572736f6e266c61796f75743d636f6d70616374267468656d653d6461726b))
+![Top Langs]([https://github-readme-stats.vercel.app/api/top-langs/?username=is-wenderson&layout=compact&theme=dark])
 
 
