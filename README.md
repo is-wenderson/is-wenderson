@@ -1,15 +1,10 @@
-<img src="https://github.com/user-attachments/assets/a3116f01-d166-4545-b677-96df3c65dc80" alt="Banner" width="500" length="300">
-
-
-
+<img src="https://github.com/user-attachments/assets/a3116f01-d166-4545-b677-96df3c65dc80" alt="Banner" width="500" height="300">
 
 ## 👋 About Me
 
 🚀 Passionate about coding, solving challenges, and continuously improving my skills.  
-💻 Recently started a beckend programming course with Alura as part of the G8 ONE program.  
+💻 Recently started a backend programming course with Alura as part of the G8 ONE program.  
 🎓 Studying Information Technology at UFRN (Universidade Federal do Rio Grande do Norte).
-
-
 
 ## 🚀 Tecnologias
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
@@ -20,9 +15,5 @@
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
 ## 📊 GitHub
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=is-wenderson&layout=compact&theme=tokyonight)
-
-
-
-
-
