@@ -19,8 +19,7 @@
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
-## 📊 GitHub Stats
-
+## 📊 GitHub
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=is-wenderson&layout=compact&theme=white)
 
 
