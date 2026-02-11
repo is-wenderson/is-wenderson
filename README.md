@@ -20,7 +20,8 @@
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
 ## 📊 GitHub
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=is-wenderson&layout=compact&theme=white)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=is-wenderson&layout=compact&theme=tokyonight)
+
 
 
 
