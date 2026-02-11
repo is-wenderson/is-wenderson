@@ -16,4 +16,5 @@
 
 ## 📊 GitHub
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=is-wenderson&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats-git-master-rstaa-r.vercel.app/api/top-langs/?username=is-wenderson&layout=compact&theme=tokyonight)
+
