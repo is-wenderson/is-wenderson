@@ -15,17 +15,11 @@
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
 ## 📊 GitHub
-
-![Top Langs](https://github-readme-stats-git-master-rstaa-r.vercel.app/api/top-langs/?username=is-wenderson&layout=compact&theme=tokyonight)
-
-![GitHub Stats](https://github-readme-stats-git-master-rstaa-r.vercel.app/api?username=is-wenderson&show_icons=true&theme=tokyonight)
-
 ![GitHub Streak](https://streak-stats.demolab.com?user=is-wenderson&theme=tokyonight&date_format=j%20M%5B%20Y%5D)
 
 ## 📈 Summary Cards
 
 ![Repos per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=is-wenderson&theme=tokyonight)
-![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=is-wenderson&theme=tokyonight)
 ![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=is-wenderson&theme=tokyonight)
 
 
